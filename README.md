@@ -22,7 +22,7 @@ Installation
 To get started with the project, clone the repository and install the necessary dependencies:
 bash
 Copy code
-git clone https://github.com/your-username/rock-vs-mine-prediction.git
+git clone https://github.com/Anuj4058/rock-vs-mine-prediction.git
 cd rock-vs-mine-prediction
 pip install -r requirements.txt
 
